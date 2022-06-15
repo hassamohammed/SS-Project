@@ -1,0 +1,15 @@
+h1 {
+  background-color: yellow;
+}
+p {
+  font-size: 5rem;
+  color: aqua;
+  background-color: black;
+  text-align: center;
+}
+p:hover {
+  font-size: 5rem;
+  color: black;
+  background-color: aqua;
+  text-align: center;
+}
